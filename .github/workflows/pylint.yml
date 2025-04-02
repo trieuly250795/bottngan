@@ -8,6 +8,7 @@ on:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+
     steps:
       # Check out mã nguồn
       - name: Checkout repository
@@ -24,13 +25,14 @@ jobs:
         run: |
           pip install -r ngan/requirements.txt
 
-      # Hoặc thêm các câu lệnh khác để kiểm tra môi trường
-      - name: Run bot
-        run: python ngan/main.py
-
-
-      # In ra nội dung thư mục để kiểm tra xem file có đúng không
-      - name: List files
+      # Kiểm tra nội dung thư mục
+      - name: List files in 'ngan' directory
         run: |
-          echo "Listing files..."
+          echo "Listing files in 'ngan' directory..."
           ls -l ngan
+
+      # Chạy bot
+      - name: Run bot
+        run: |
+          echo "Running bot..."
+          python3 ngan/main.py
