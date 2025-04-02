@@ -36,7 +36,19 @@ jobs:
         run: |
           python3 --version
 
-      # Kiểm tra xem script có thực thi được không
+      # Kiểm tra lại các module cần thiết
+      - name: Check if necessary modules are installed
+        run: |
+          pip list
+
+      # Kiểm tra môi trường trước khi chạy
+      - name: Test if bot script is executable
+        run: |
+          echo "Testing bot script execution..."
+          ls -l ngan/main.py
+          head -n 20 ngan/main.py
+
+      # Chạy bot và capture output
       - name: Run bot and capture output
         run: |
           echo "Running bot..."
