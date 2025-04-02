@@ -26,7 +26,7 @@ jobs:
 
       # Hoặc thêm các câu lệnh khác để kiểm tra môi trường
       - name: Run bot
-        run: python3 ngan/main.py
+        run: python ngan/main.py
 
 
       # In ra nội dung thư mục để kiểm tra xem file có đúng không
