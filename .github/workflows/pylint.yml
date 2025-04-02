@@ -24,4 +24,4 @@ jobs:
 
     - name: Run bot
       run: |
-        python src/bot.py
+        python ngan/main.py
