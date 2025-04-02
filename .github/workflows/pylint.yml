@@ -23,7 +23,8 @@ jobs:
       # Cài đặt các thư viện từ requirements.txt
       - name: Install dependencies
         run: |
-          pip install -r ngan/requirements.txt
+          echo "Installing dependencies..."
+          pip install -r ngan/requirements.txt || { echo 'Failed to install dependencies!'; exit 1; }
 
       # Kiểm tra nội dung thư mục
       - name: List files in 'ngan' directory
@@ -34,22 +35,31 @@ jobs:
       # Kiểm tra xem Python có thể chạy
       - name: Check Python version
         run: |
-          python3 --version
+          echo "Checking Python version..."
+          python3 --version || { echo 'Python version check failed!'; exit 1; }
 
       # Kiểm tra lại các module cần thiết
       - name: Check if necessary modules are installed
         run: |
-          pip list
+          echo "Checking installed Python packages..."
+          pip list || { echo 'Failed to list Python packages!'; exit 1; }
 
       # Kiểm tra môi trường trước khi chạy
       - name: Test if bot script is executable
         run: |
           echo "Testing bot script execution..."
-          ls -l ngan/main.py
-          head -n 20 ngan/main.py
+          ls -l ngan/main.py || { echo 'Bot script not found or not executable!'; exit 1; }
+          head -n 20 ngan/main.py || { echo 'Failed to read bot script!'; exit 1; }
 
       # Chạy bot và capture output
       - name: Run bot and capture output
         run: |
           echo "Running bot..."
-          python3 ngan/main.py || echo "Bot execution failed with exit code $?"
+          python3 ngan/main.py > result.log 2>&1 || { echo 'Bot execution failed with exit code $?'; tail -n 20 result.log; exit 1; }
+
+      # In log ra khi bot thất bại
+      - name: Print bot execution log
+        if: failure()
+        run: |
+          echo "Bot execution failed. Showing last 20 lines of the log..."
+          tail -n 20 result.log
