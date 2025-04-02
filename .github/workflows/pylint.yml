@@ -55,7 +55,12 @@ jobs:
       - name: Run bot and capture output
         run: |
           echo "Running bot..."
-          python3 ngan/main.py 2>&1 | tee -a result.log || { echo 'Bot execution failed with exit code $?'; tail -n 20 result.log; exit 1; }
+          python3 ngan/main.py 2>&1 | tee -a result.log || { 
+            echo 'Bot execution failed with exit code $?'; 
+            tail -n 20 result.log;
+            exit 1;
+          }
+
 
       # In log ra khi bot thất bại
       - name: Print bot execution log
