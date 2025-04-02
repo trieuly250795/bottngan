@@ -24,12 +24,6 @@ jobs:
         run: |
           pip install -r ngan/requirements.txt
 
-      # Kiểm tra bot trên shell
-      - name: Test bot in shell
-        run: |
-          echo "Testing bot..."
-          python3 ngan/main.py
-
       # Hoặc thêm các câu lệnh khác để kiểm tra môi trường
       - name: Run bot
         run: python3 ngan/main.py
