@@ -1,28 +1,26 @@
-name: Chạy bot Zalo
+name: Run Bot
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    branches: [ main ]   # Workflow này chạy khi có push vào nhánh main
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout mã nguồn
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Cài đặt Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
-      - name: Cài đặt thư viện
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-      - name: Chạy bot
-        run: python bot.py
+      - name: Run bot
+        run: |
+          python main.py
