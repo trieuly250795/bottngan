@@ -1,0 +1,3703 @@
+[
+    {
+        "msgId": "6392217309525",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585720809",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:48:46"
+    },
+    {
+        "msgId": "6392217807831",
+        "uidFrom": "1906206981639792147",
+        "cliMsgId": "1741585732758",
+        "msgType": "webchat",
+        "content": "307202 + 1 reg bú hỗn loạn",
+        "params": null,
+        "time": "2025-03-10 05:48:53"
+    },
+    {
+        "msgId": "6392217885662",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734616",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:54"
+    },
+    {
+        "msgId": "6392217894930",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734622",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:55"
+    },
+    {
+        "msgId": "6392217904412",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734629",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:55"
+    },
+    {
+        "msgId": "6392217906372",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734632",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:55"
+    },
+    {
+        "msgId": "6392217917764",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734638",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:24"
+    },
+    {
+        "msgId": "6392217921573",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734641",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:24"
+    },
+    {
+        "msgId": "6392217926803",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734644",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:24"
+    },
+    {
+        "msgId": "6392217928854",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734647",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:55"
+    },
+    {
+        "msgId": "6392217934898",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734650",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:56"
+    },
+    {
+        "msgId": "6392217701095",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585730204",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:48:56"
+    },
+    {
+        "msgId": "6392217947976",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734660",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:56"
+    },
+    {
+        "msgId": "6392217953982",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734663",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:56"
+    },
+    {
+        "msgId": "6392217966858",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734672",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:56"
+    },
+    {
+        "msgId": "6392217973647",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734678",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:57"
+    },
+    {
+        "msgId": "6392217975850",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734681",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:57"
+    },
+    {
+        "msgId": "6392217983284",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734684",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:57"
+    },
+    {
+        "msgId": "6392218009889",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734703",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:57"
+    },
+    {
+        "msgId": "6392218015005",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734706",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:58"
+    },
+    {
+        "msgId": "6392218030531",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734712",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:58"
+    },
+    {
+        "msgId": "6392217784386",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585732209",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:48:58"
+    },
+    {
+        "msgId": "6392218040090",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734715",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:58"
+    },
+    {
+        "msgId": "6392218062148",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734727",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:59"
+    },
+    {
+        "msgId": "6392218071655",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734730",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:59"
+    },
+    {
+        "msgId": "6392218087149",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734739",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:48:59"
+    },
+    {
+        "msgId": "6392217853807",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585733909",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:00"
+    },
+    {
+        "msgId": "6392218112874",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734758",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:00"
+    },
+    {
+        "msgId": "6392218134822",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734773",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:00"
+    },
+    {
+        "msgId": "6392218140403",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734780",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:01"
+    },
+    {
+        "msgId": "6392218149417",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734786",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:01"
+    },
+    {
+        "msgId": "6392218172841",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734802",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:01"
+    },
+    {
+        "msgId": "6392218176559",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734805",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:01"
+    },
+    {
+        "msgId": "6392217941304",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585736016",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:02"
+    },
+    {
+        "msgId": "6392218186973",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734811",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:02"
+    },
+    {
+        "msgId": "6392218217741",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734833",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:02"
+    },
+    {
+        "msgId": "6392218221564",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734837",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:02"
+    },
+    {
+        "msgId": "6392218230214",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585734843",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:03"
+    },
+    {
+        "msgId": "6392218029799",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585738077",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:04"
+    },
+    {
+        "msgId": "6392218802499",
+        "uidFrom": "1906206981639792147",
+        "cliMsgId": "1741585756848",
+        "msgType": "webchat",
+        "content": "307202 + 1 reg bú hỗn loạn",
+        "params": null,
+        "time": "2025-03-10 05:49:17"
+    },
+    {
+        "msgId": "6392218908083",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585759387",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:54"
+    },
+    {
+        "msgId": "6392218986208",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585761318",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:27"
+    },
+    {
+        "msgId": "6392219277802",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768352",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219282075",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768367",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219280726",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768379",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219286763",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768391",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219287596",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768402",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219285151",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768414",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219290594",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768426",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219294339",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768441",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:28"
+    },
+    {
+        "msgId": "6392219296238",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768464",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219302353",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768488",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219303563",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768500",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219308253",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768526",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219313543",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768572",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219064189",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585763171",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219315101",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768561",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219318105",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768584",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219321884",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768595",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219332164",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768664",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:29"
+    },
+    {
+        "msgId": "6392219334905",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768675",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219337994",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768687",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219340583",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768699",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219344488",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768723",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219346942",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768735",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219349449",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768758",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219351503",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768770",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219354745",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768783",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219362999",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768831",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219367125",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768809",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:30"
+    },
+    {
+        "msgId": "6392219377627",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768842",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:50:59"
+    },
+    {
+        "msgId": "6392219381212",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768865",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219382422",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768887",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219140668",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585765021",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219393355",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768898",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219399842",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768920",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219401375",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768932",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219408070",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768966",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219410424",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768979",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219413160",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585768990",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219413832",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769025",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:31"
+    },
+    {
+        "msgId": "6392219421701",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769036",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219423994",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769071",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219429209",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769094",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219433513",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769128",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219434715",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769117",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219438086",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769139",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219441826",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769151",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219443274",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769162",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219447608",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769196",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219451824",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769208",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219454624",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769231",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219456778",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769253",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:32"
+    },
+    {
+        "msgId": "6392219470551",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769311",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219470774",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769288",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219217431",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585766886",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219474800",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769322",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219476786",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769333",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219481041",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769379",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219482495",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769368",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219484876",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769356",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219488566",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769418",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219494387",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769474",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219501444",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741585769561",
+        "msgType": "webchat",
+        "content": "+ad  sp  trình cứng ✓                                                         +Bem Rank 2 3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 05:49:33"
+    },
+    {
+        "msgId": "6392219298860",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585768869",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:34"
+    },
+    {
+        "msgId": "6392219379447",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585770807",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:36"
+    },
+    {
+        "msgId": "6392219591827",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585775921",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:42"
+    },
+    {
+        "msgId": "6392219663027",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585777671",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:43"
+    },
+    {
+        "msgId": "6392219926968",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585783985",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:49:44"
+    },
+    {
+        "msgId": "6392219745119",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585779631",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:45"
+    },
+    {
+        "msgId": "6392220016242",
+        "uidFrom": "3662000874342279349",
+        "cliMsgId": "1741585786239",
+        "msgType": "webchat",
+        "content": {
+            "title": "👀 Chỉ trưởng/phó nhóm được gửi tin nhắn vào nhóm, bạn có quyền xem và thả cảm xúc hoặc chia sẻ các tin nhắn này.",
+            "description": "",
+            "href": "",
+            "thumb": "",
+            "childnumber": 0,
+            "action": "msginfo.actionlist",
+            "params": "{\"msg\":{\"vi\":\"👀 Chỉ trưởng/phó nhóm được gửi tin nhắn vào nhóm, bạn có quyền xem và thả cảm xúc hoặc chia sẻ các tin nhắn này.\",\"en\":\"👀 Only owner/admins can send messages to this group, you can view and react or share these messages.\",\"my\":\"👀 Only owner/admins can send messages to this group, you can view and react or share these messages.\"},\"highLightsV2\":[],\"actions\":[{\"actionLabelv2\":{\"vi\":\"Xem thêm\",\"en\":\"See more\",\"my\":\"See more\"},\"actionType\":\"action.open.outapp\",\"actionColor\":-16538118,\"actionData\":\"https://bit.ly/zalo_group_channel\"}],\"totalUpdateMem\":0}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 05:49:46"
+    },
+    {
+        "msgId": "6392220057501",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585787234",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:49:47"
+    },
+    {
+        "msgId": "6392219823294",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585781516",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:47"
+    },
+    {
+        "msgId": "6392219898007",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585783321",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:49"
+    },
+    {
+        "msgId": "6392219973045",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585785140",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:51"
+    },
+    {
+        "msgId": "6392220055801",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585787172",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:53"
+    },
+    {
+        "msgId": "6392220252142",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585791984",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:49:58"
+    },
+    {
+        "msgId": "6392220339929",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585794051",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:00"
+    },
+    {
+        "msgId": "6392220624952",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585800984",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220623831",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585800970",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220626338",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585800996",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220627403",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801025",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220633738",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801012",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220635659",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801063",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220644012",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801102",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220644017",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801116",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220649472",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801128",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220653454",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801184",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220657326",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801159",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220412267",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585795794",
+        "msgType": "webchat",
+        "content": "Txiu xỉu 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:01"
+    },
+    {
+        "msgId": "6392220660791",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801172",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:02"
+    },
+    {
+        "msgId": "6392220667097",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801226",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:02"
+    },
+    {
+        "msgId": "6392220670986",
+        "uidFrom": "8241811296346380807",
+        "cliMsgId": "1741585801251",
+        "msgType": "webchat",
+        "content": "Tuyển ad 1x đổ tlt trên 60% champ cứng id",
+        "params": null,
+        "time": "2025-03-10 05:50:02"
+    },
+    {
+        "msgId": "6392215416046",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585675251",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:12"
+    },
+    {
+        "msgId": "6392221342229",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818313",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:18"
+    },
+    {
+        "msgId": "6392221349425",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818319",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:18"
+    },
+    {
+        "msgId": "6392221355527",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818322",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:18"
+    },
+    {
+        "msgId": "6392221363858",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818328",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221367642",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818331",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221375825",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818337",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221380690",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818341",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221384004",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818344",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221388420",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818347",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:19"
+    },
+    {
+        "msgId": "6392221401532",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818356",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:20"
+    },
+    {
+        "msgId": "6392221406912",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818359",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:20"
+    },
+    {
+        "msgId": "6392221418141",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818368",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:20"
+    },
+    {
+        "msgId": "6392221427025",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818374",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:20"
+    },
+    {
+        "msgId": "6392221433549",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818377",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:51:49"
+    },
+    {
+        "msgId": "6392221437300",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818381",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:51:49"
+    },
+    {
+        "msgId": "6392221466473",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818399",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:21"
+    },
+    {
+        "msgId": "6392221473403",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818402",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:21"
+    },
+    {
+        "msgId": "6392221482200",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818405",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:21"
+    },
+    {
+        "msgId": "6392221493125",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818412",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:22"
+    },
+    {
+        "msgId": "6392221263063",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585816459",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:22"
+    },
+    {
+        "msgId": "6392221516139",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818424",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:22"
+    },
+    {
+        "msgId": "6392221523927",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818427",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:22"
+    },
+    {
+        "msgId": "6392221543591",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818437",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:23"
+    },
+    {
+        "msgId": "6392221328204",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585818071",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:24"
+    },
+    {
+        "msgId": "6392221578404",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818456",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:24"
+    },
+    {
+        "msgId": "6392221612727",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818471",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:25"
+    },
+    {
+        "msgId": "6392221625147",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818477",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:25"
+    },
+    {
+        "msgId": "6392221638164",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818483",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:51:54"
+    },
+    {
+        "msgId": "6392221413604",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585820158",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:26"
+    },
+    {
+        "msgId": "6392221667606",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818499",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:26"
+    },
+    {
+        "msgId": "6392221675557",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818502",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:26"
+    },
+    {
+        "msgId": "6392221686286",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818508",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:27"
+    },
+    {
+        "msgId": "6392221484182",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585821912",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:27"
+    },
+    {
+        "msgId": "6392221735826",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818529",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:28"
+    },
+    {
+        "msgId": "6392221739803",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818532",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:28"
+    },
+    {
+        "msgId": "6392221749857",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585818538",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:28"
+    },
+    {
+        "msgId": "6392221558460",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585823734",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:29"
+    },
+    {
+        "msgId": "6392221641216",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585825748",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:31"
+    },
+    {
+        "msgId": "6392222078331",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585836378",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:42"
+    },
+    {
+        "msgId": "6392222159598",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585838347",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:44"
+    },
+    {
+        "msgId": "6392222243229",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585840388",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:46"
+    },
+    {
+        "msgId": "6392222540418",
+        "uidFrom": "3101883304816947051",
+        "cliMsgId": "1741585847575",
+        "msgType": "webchat",
+        "content": "216331 hạ kc-ct 6 p ko gg",
+        "params": null,
+        "time": "2025-03-10 05:50:47"
+    },
+    {
+        "msgId": "6392222328060",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585842488",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:48"
+    },
+    {
+        "msgId": "6392222602464",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585849065",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:50:55"
+    },
+    {
+        "msgId": "6392222680629",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585850933",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:52:25"
+    },
+    {
+        "msgId": "6392222757715",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585852815",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:52:27"
+    },
+    {
+        "msgId": "6392223231493",
+        "uidFrom": "7258627125271615452",
+        "cliMsgId": "1741585864440",
+        "msgType": "webchat",
+        "content": "Acclq",
+        "params": null,
+        "time": "2025-03-10 05:52:33"
+    },
+    {
+        "msgId": "6392223109684",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585861453",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:52:35"
+    },
+    {
+        "msgId": "6392223189766",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585863433",
+        "msgType": "webchat",
+        "content": "Txiu tài 50%",
+        "params": null,
+        "time": "2025-03-10 05:52:37"
+    },
+    {
+        "msgId": "6392223704548",
+        "uidFrom": "5105673831465227453",
+        "cliMsgId": "1741585875899",
+        "msgType": "webchat",
+        "content": "Txiu tài all",
+        "params": null,
+        "time": "2025-03-10 05:51:21"
+    },
+    {
+        "msgId": "6392403412123",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806052",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:49"
+    },
+    {
+        "msgId": "6392403420292",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806055",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:49"
+    },
+    {
+        "msgId": "6392403430887",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806061",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403437622",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806064",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403435332",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806058",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403444452",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806067",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403448701",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806070",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403453825",
+        "uidFrom": "4643481809532172311",
+        "cliMsgId": "1741589806073",
+        "msgType": "webchat",
+        "content": "+3 ad top  rừng 10s quay chạy ngay",
+        "params": null,
+        "time": "2025-03-10 06:56:50"
+    },
+    {
+        "msgId": "6392403627227",
+        "uidFrom": "2670654904430771575",
+        "cliMsgId": "1741589812736",
+        "msgType": "webchat",
+        "content": "listgroup",
+        "params": null,
+        "time": "2025-03-10 06:58:22"
+    },
+    {
+        "msgId": "6392403860285",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589817753",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:26"
+    },
+    {
+        "msgId": "6392403956329",
+        "uidFrom": "1260082230490850587",
+        "cliMsgId": "1741589819484",
+        "msgType": "webchat",
+        "content": "215816 reg nor có né",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392403967833",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819631",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392403974474",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819634",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392403984213",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819640",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392403995886",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819646",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392404000610",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819649",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392404008418",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819652",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404019321",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819658",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404028026",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819664",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404034423",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819667",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404038529",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819670",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404045883",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819673",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392404058446",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819679",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404068526",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819685",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404079903",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819691",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404081381",
+        "uidFrom": "2046927377378343951",
+        "cliMsgId": "1741589821555",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🌾 Gió bấc hiu hiu sếu kêu thì rét.",
+            "description": "",
+            "href": "https://f53-zpg-r.zdn.vn/5627610499289019994/e6d99cd41b13aa4df302.jpg",
+            "thumb": "https://t-f53-zpg-r.zdn.vn/480/5627610499289019994/e6d99cd41b13aa4df302.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":2560,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f53-zpg-r.zdn.vn\\/5627610499289019994\\/e6d99cd41b13aa4df302.jpg\",\"hdSize\":344622,\"height\":2560}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404084453",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819694",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404091055",
+        "uidFrom": "5136197510360991776",
+        "cliMsgId": "1741589819697",
+        "msgType": "webchat",
+        "content": "818800 +2 reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392404743797",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834005",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404740898",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834002",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404749933",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834008",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404756326",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834011",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404762750",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834014",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404766330",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834017",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404771509",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834021",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404778332",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834024",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:14"
+    },
+    {
+        "msgId": "6392404785301",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834027",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404788592",
+        "uidFrom": "2046927377378343951",
+        "cliMsgId": "1741589834641",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🤣 Thế này cầu thủ ….. chết ta….?\ncờ trên cờ dưới tiên cha nhà mày …..!\nBây giờ ứ phải lúc này\nMong mày nằm ngủ ông mày….. Còn chơi.",
+            "description": "",
+            "href": "https://f65-zpg-r.zdn.vn/3253160943155244071/4e899e8d1e4aaf14f65b.jpg",
+            "thumb": "https://t-f65-zpg-r.zdn.vn/480/3253160943155244071/4e899e8d1e4aaf14f65b.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":2560,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f65-zpg-r.zdn.vn\\/3253160943155244071\\/4e899e8d1e4aaf14f65b.jpg\",\"hdSize\":344622,\"height\":2560}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404800631",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834036",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404806991",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834039",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404813643",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834042",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404823307",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834048",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404827278",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834051",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404816073",
+        "uidFrom": "2046927377378343951",
+        "cliMsgId": "1741589835216",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🌾 Ở bầu thì tròn, ở ống thì dài.",
+            "description": "",
+            "href": "https://f65-zpg-r.zdn.vn/3249794848980781517/a609bdd03d178c49d506.jpg",
+            "thumb": "https://t-f65-zpg-r.zdn.vn/480/3249794848980781517/a609bdd03d178c49d506.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":2560,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f65-zpg-r.zdn.vn\\/3249794848980781517\\/a609bdd03d178c49d506.jpg\",\"hdSize\":344622,\"height\":2560}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:57:15"
+    },
+    {
+        "msgId": "6392404847314",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834061",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:16"
+    },
+    {
+        "msgId": "6392404851777",
+        "uidFrom": "9081734228631191151",
+        "cliMsgId": "1741589834064",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:16"
+    },
+    {
+        "msgId": "6392405648379",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589850742",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:57:31"
+    },
+    {
+        "msgId": "6392405676620",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589851233",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:57:31"
+    },
+    {
+        "msgId": "6392405725441",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852165",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405732086",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852178",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405733978",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852202",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405737045",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852191",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405738944",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852214",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405747051",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852243",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405749667",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852267",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:57:32"
+    },
+    {
+        "msgId": "6392405758469",
+        "uidFrom": "8111054324703193335",
+        "cliMsgId": "1741589852327",
+        "msgType": "webchat",
+        "content": "729179 hạ 6p 1sl",
+        "params": null,
+        "time": "2025-03-10 06:59:01"
+    },
+    {
+        "msgId": "6392405909279",
+        "uidFrom": "8921435625246178472",
+        "cliMsgId": "1741589855400",
+        "msgType": "webchat",
+        "content": "➜ Lệnh [!bot e] không được hỗ trợ 🤧",
+        "params": null,
+        "time": "2025-03-10 06:57:35"
+    },
+    {
+        "msgId": "6392405896675",
+        "uidFrom": "869535265528812918",
+        "cliMsgId": "1741589855177",
+        "msgType": "webchat",
+        "content": "Bot e sài k dc",
+        "params": null,
+        "time": "2025-03-10 06:57:36"
+    },
+    {
+        "msgId": "6392405965505",
+        "uidFrom": "2770593027404553492",
+        "cliMsgId": "1741589855362",
+        "msgType": "chat.reaction",
+        "content": {
+            "rMsg": [
+                {
+                    "gMsgID": 6392405896675,
+                    "cMsgID": 1741589855177,
+                    "msgType": 1
+                }
+            ],
+            "rIcon": "/-strong",
+            "rType": 3,
+            "source": 6
+        },
+        "params": null,
+        "time": "2025-03-10 06:57:36"
+    },
+    {
+        "msgId": "6392405965506",
+        "uidFrom": "6571142112679387734",
+        "cliMsgId": "1741589855373",
+        "msgType": "chat.reaction",
+        "content": {
+            "rMsg": [
+                {
+                    "gMsgID": 6392405896675,
+                    "cMsgID": 1741589855177,
+                    "msgType": 1
+                }
+            ],
+            "rIcon": "❤️‍🩹",
+            "rType": -1578201859,
+            "source": 6
+        },
+        "params": null,
+        "time": "2025-03-10 06:57:36"
+    },
+    {
+        "msgId": "6392406001578",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589857254",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:57:37"
+    },
+    {
+        "msgId": "6392406239102",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589861619",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:10"
+    },
+    {
+        "msgId": "6392406319297",
+        "uidFrom": "869535265528812918",
+        "cliMsgId": "1741589863072",
+        "msgType": "webchat",
+        "content": "@menu",
+        "params": null,
+        "time": "2025-03-10 06:59:11"
+    },
+    {
+        "msgId": "6392406333535",
+        "uidFrom": "7256929094110697938",
+        "cliMsgId": "1741589863266",
+        "msgType": "chat.reaction",
+        "content": {
+            "rMsg": [
+                {
+                    "gMsgID": 6392406319297,
+                    "cMsgID": 1741589863072,
+                    "msgType": 1
+                }
+            ],
+            "rIcon": "/-strong",
+            "rType": 3,
+            "source": 6
+        },
+        "params": null,
+        "time": "2025-03-10 06:59:12"
+    },
+    {
+        "msgId": "6392406387037",
+        "uidFrom": "7256929094110697938",
+        "cliMsgId": "1741589864002",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🚦@Kira Hơm Bt Code\n   ➜ ♨️ Bot (@bot)\n   ➜ 📢 Tin tức (@news)\n   ➜ ⛅ Thời tiết (@thoitiet)\n   ➜ 🤭 Thả thính (@thathinh)\n   ➜ 🎵 Tìm nhạc (@nhac)\n   ➜ 🎬 Tìm video (@video)\n   ➜ ⬇️ Downloader (@dl)\n   ➜ 🗯 Chat AI (@chat)\n   ➜ 🎨 Vẽ ảnh (@make)\n   ➜ 🥤 Vẽ Anime (@anime)\n   ➜ 😆 Tạo Sticker (@stk)\n   ➜ 🐉 HH3D (@donghua)\n   ➜ 🚓 Phạt nguội (@phatnguoi)\n   ➜ 🩴 Zép Lào (@zl)\n   ➜ 🎮 Game (@bc @baucua @tx)\n   ➜ 💌 Share code (@share)\n   ➜ 🤖 Quản lý Bot (@mybot)\n   ➜ 🧨 Spam (@war)\n   ➜ 🎯 Key zlapi (@key)\n   ➜ 🍼 Tính năng khác (@or)\n   ➜ 🐳 Tính năng ẩn (@hidden)\n   ➜ 🍭 Group: https://zalo.me/g/xrjubm322",
+            "description": "",
+            "href": "https://f48-zpg-r.zdn.vn/8093789022542131243/3636753ef7f946a71fe8.jpg",
+            "thumb": "https://t-f48-zpg-r.zdn.vn/480/8093789022542131243/3636753ef7f946a71fe8.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":1280,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f48-zpg-r.zdn.vn\\/8093789022542131243\\/3636753ef7f946a71fe8.jpg\",\"hdSize\":344622,\"height\":400}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:59:13"
+    },
+    {
+        "msgId": "6392406475244",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589865964",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:14"
+    },
+    {
+        "msgId": "6392406733830",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589870762",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:19"
+    },
+    {
+        "msgId": "6392406778988",
+        "uidFrom": "2046927377378343951",
+        "cliMsgId": "1741589871171",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🌾 Anh đi anh nhớ quê nhà, nhớ canh rau muống nhớ cà dầm tương.",
+            "description": "",
+            "href": "https://f60-zpg-r.zdn.vn/4289812856119205519/9ea0c5c54602f75cae13.jpg",
+            "thumb": "https://t-f60-zpg-r.zdn.vn/480/4289812856119205519/9ea0c5c54602f75cae13.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":2560,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f60-zpg-r.zdn.vn\\/4289812856119205519\\/9ea0c5c54602f75cae13.jpg\",\"hdSize\":344622,\"height\":2560}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:59:20"
+    },
+    {
+        "msgId": "6392406982570",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589875307",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:57:55"
+    },
+    {
+        "msgId": "6392407186044",
+        "uidFrom": "3438950382734679774",
+        "cliMsgId": "1741589879081",
+        "msgType": "webchat",
+        "content": "@Nam Hết Thời kkkk",
+        "params": null,
+        "time": "2025-03-10 06:57:59"
+    },
+    {
+        "msgId": "6392407372681",
+        "uidFrom": "1260082230490850587",
+        "cliMsgId": "1741589882396",
+        "msgType": "webchat",
+        "content": "215816 +1 reg có né",
+        "params": null,
+        "time": "2025-03-10 06:58:02"
+    },
+    {
+        "msgId": "6392407439608",
+        "uidFrom": "3438950382734679774",
+        "cliMsgId": "1741589883810",
+        "msgType": "webchat",
+        "content": "@Trung Kiên ok ok kkk",
+        "params": null,
+        "time": "2025-03-10 06:58:04"
+    },
+    {
+        "msgId": "6392407494212",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884801",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407499414",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884830",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407498507",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884814",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407501213",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884841",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407508670",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884865",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407514119",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884892",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407519431",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884914",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407522956",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884939",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407525924",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884927",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407527461",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884952",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407532497",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884965",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407534723",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884976",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407541234",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885010",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407545655",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589884988",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407548014",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885033",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:05"
+    },
+    {
+        "msgId": "6392407551938",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885045",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407557045",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885067",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407558421",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885091",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407562588",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885102",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407566654",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589886120",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407571517",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885137",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407579247",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885161",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407583335",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885191",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407584001",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885202",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407590923",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885224",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407591729",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885236",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407595951",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885247",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407599612",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885258",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:06"
+    },
+    {
+        "msgId": "6392407603105",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885280",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407605571",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885291",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407610520",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885302",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407614851",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885324",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407622310",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885358",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407631663",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885369",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407632242",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885392",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407635354",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885403",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407636872",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885414",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407639277",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885426",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407642797",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885438",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407652361",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885483",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407657488",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885494",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:07"
+    },
+    {
+        "msgId": "6392407660848",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885516",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:59:36"
+    },
+    {
+        "msgId": "6392407670102",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885562",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:59:36"
+    },
+    {
+        "msgId": "6392407672952",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885551",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407679396",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885584",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407681652",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885595",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407685185",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885607",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407687598",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885618",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407691125",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885630",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407694150",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885641",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407699326",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885676",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407703971",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885701",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407707286",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885712",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:08"
+    },
+    {
+        "msgId": "6392407714402",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885688",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407718600",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885735",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407720861",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885768",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407726828",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885790",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407732264",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885801",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407736045",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885812",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407739031",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885823",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407741988",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885835",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407746271",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885847",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407748846",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885871",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407759660",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885906",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407762817",
+        "uidFrom": "6365389722088441393",
+        "cliMsgId": "1741589885930",
+        "msgType": "webchat",
+        "content": "+ top mid ad sp trình cứng ✓                                                         +Bem Rank  3x quay tật  né !",
+        "params": null,
+        "time": "2025-03-10 06:58:09"
+    },
+    {
+        "msgId": "6392407820566",
+        "uidFrom": "3438950382734679774",
+        "cliMsgId": "1741589890876",
+        "msgType": "webchat",
+        "content": "@Nam Hết Thời hết cíu",
+        "params": null,
+        "time": "2025-03-10 06:58:11"
+    },
+    {
+        "msgId": "6392407930910",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589892842",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:41"
+    },
+    {
+        "msgId": "6392407934023",
+        "uidFrom": "3438950382734679774",
+        "cliMsgId": "1741589892934",
+        "msgType": "chat.sticker",
+        "content": {
+            "id": 42832,
+            "catId": 11752,
+            "type": 3,
+            "extInfo": null
+        },
+        "params": null,
+        "time": "2025-03-10 06:59:41"
+    },
+    {
+        "msgId": "6392408297055",
+        "uidFrom": "6775919605287771759",
+        "cliMsgId": "1741589899690",
+        "msgType": "webchat",
+        "content": "Booba",
+        "params": null,
+        "time": "2025-03-10 06:58:20"
+    },
+    {
+        "msgId": "6392408618834",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589905381",
+        "msgType": "webchat",
+        "content": "570519 +2reg 33",
+        "params": null,
+        "time": "2025-03-10 06:58:25"
+    },
+    {
+        "msgId": "6392408710553",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907110",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408714122",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907113",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408723336",
+        "uidFrom": "8613486358214244078",
+        "cliMsgId": "1741589907099",
+        "msgType": "webchat",
+        "content": "605133 Reg co ne",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408726798",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907119",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408732706",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907122",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408738297",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907125",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:27"
+    },
+    {
+        "msgId": "6392408749134",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907128",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:59:56"
+    },
+    {
+        "msgId": "6392408752181",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907131",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:59:56"
+    },
+    {
+        "msgId": "6392408754940",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907134",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:59:56"
+    },
+    {
+        "msgId": "6392408761765",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907138",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392408773107",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907144",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392408777886",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907147",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392408787628",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907150",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392408789269",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907153",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:28"
+    },
+    {
+        "msgId": "6392408796256",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907156",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408804252",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907162",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408817875",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907168",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408823143",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907171",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408835475",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907178",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408838662",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907181",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408845603",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907184",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:29"
+    },
+    {
+        "msgId": "6392408850343",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907187",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392408860668",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907190",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392408861824",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907193",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392408902009",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907214",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:30"
+    },
+    {
+        "msgId": "6392408913814",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907218",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408922873",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907224",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408926218",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907227",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408929394",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907230",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408935414",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907233",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408939017",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907236",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408946640",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907239",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408950544",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907242",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:31"
+    },
+    {
+        "msgId": "6392408962929",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907245",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392408965116",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907248",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392408972885",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907252",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392408979716",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907258",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392408995279",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907264",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392408997277",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907267",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392409007144",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907270",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:32"
+    },
+    {
+        "msgId": "6392409017898",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907279",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 07:00:01"
+    },
+    {
+        "msgId": "6392409020898",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907282",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 07:00:01"
+    },
+    {
+        "msgId": "6392409027898",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907286",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 07:00:01"
+    },
+    {
+        "msgId": "6392409033926",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907289",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:33"
+    },
+    {
+        "msgId": "6392409042201",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907292",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:33"
+    },
+    {
+        "msgId": "6392409060951",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907301",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:34"
+    },
+    {
+        "msgId": "6392409081081",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907313",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:34"
+    },
+    {
+        "msgId": "6392409098450",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907323",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:34"
+    },
+    {
+        "msgId": "6392409112138",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907329",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:34"
+    },
+    {
+        "msgId": "6392409116582",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907332",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409121149",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907335",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409127016",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907338",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409131111",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907341",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409137437",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907345",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409143020",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907348",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409153228",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907351",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409155452",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907354",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409161150",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907357",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409164334",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907360",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409172696",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907363",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:35"
+    },
+    {
+        "msgId": "6392409175972",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907366",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409194845",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907376",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409197656",
+        "uidFrom": "2046927377378343951",
+        "cliMsgId": "1741589914945",
+        "msgType": "chat.photo",
+        "content": {
+            "title": "🤣 Thế rồi đã hết mùa đông\nRa đường chỉ thấy toàn mông với đùi\nCũng tại vì nắng quá trời\nVi vu như thể ngồi phơi trong buồng.",
+            "description": "",
+            "href": "https://f58-zpg-r.zdn.vn/6538575789373435899/2d63691de7da56840fcb.jpg",
+            "thumb": "https://t-f58-zpg-r.zdn.vn/480/6538575789373435899/2d63691de7da56840fcb.jpg",
+            "childnumber": 0,
+            "action": "",
+            "params": "{\"sendSource\":1,\"fileSize\":247671,\"thumbSize\":53932,\"width\":2560,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/b-f58-zpg-r.zdn.vn\\/6538575789373435899\\/2d63691de7da56840fcb.jpg\",\"hdSize\":344622,\"height\":2560}",
+            "type": ""
+        },
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409205525",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907379",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409209701",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907382",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409213596",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907385",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409216977",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907388",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392409222271",
+        "uidFrom": "8336517633551911638",
+        "cliMsgId": "1741589907391",
+        "msgType": "webchat",
+        "content": "+2 sp top 5x đổ có trình hãy ib",
+        "params": null,
+        "time": "2025-03-10 06:58:36"
+    },
+    {
+        "msgId": "6392410444073",
+        "uidFrom": "465333798316309266",
+        "cliMsgId": "1741589938317",
+        "msgType": "webchat",
+        "content": "817107 +1 Reg mid",
+        "params": null,
+        "time": "2025-03-10 06:58:59"
+    },
+    {
+        "msgId": "6392410523010",
+        "uidFrom": "465333798316309266",
+        "cliMsgId": "1741589938353",
+        "msgType": "webchat",
+        "content": "817107 +1 Reg mid",
+        "params": null,
+        "time": "2025-03-10 06:59:00"
+    },
+    {
+        "msgId": "6392411996631",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589967774",
+        "msgType": "webchat",
+        "content": "570519 +1reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:28"
+    },
+    {
+        "msgId": "6392412271221",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589972855",
+        "msgType": "webchat",
+        "content": "570519 +1reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:33"
+    },
+    {
+        "msgId": "6392412528934",
+        "uidFrom": "3006723653759802333",
+        "cliMsgId": "1741589977550",
+        "msgType": "webchat",
+        "content": "570519 +1reg 33",
+        "params": null,
+        "time": "2025-03-10 06:59:37"
+    },
+    {
+        "msgId": "6392412893567",
+        "uidFrom": "2670654904430771575",
+        "cliMsgId": "1741589983690",
+        "msgType": "webchat",
+        "content": "grid",
+        "params": null,
+        "time": "2025-03-10 06:59:44"
+    }
+]
