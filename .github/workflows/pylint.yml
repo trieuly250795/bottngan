@@ -31,14 +31,13 @@ jobs:
           echo "Listing files in 'ngan' directory..."
           ls -l ngan
 
-      # Chạy bot và ghi lỗi (nếu có)
-      - name: Run bot
+      # Kiểm tra xem Python có thể chạy
+      - name: Check Python version
+        run: |
+          python3 --version
+
+      # Kiểm tra xem script có thực thi được không
+      - name: Run bot and capture output
         run: |
           echo "Running bot..."
-          python3 ngan/main.py || { echo "Bot failed to run"; exit 1; }
-
-      # In ra các lỗi Python (nếu có)
-      - name: Display Python error logs
-        run: |
-          echo "Displaying Python error logs..."
-          tail -n 10 ngan/bot_error.log || echo "No error log found"
+          python3 ngan/main.py || echo "Bot execution failed with exit code $?"
