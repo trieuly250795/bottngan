@@ -31,8 +31,9 @@ jobs:
           python3 ngan/main.py
 
       # Hoặc thêm các câu lệnh khác để kiểm tra môi trường
-      - name: Check python version
-        run: python3 --version
+      - name: Run bot
+        run: python3 ngan/main.py
+
 
       # In ra nội dung thư mục để kiểm tra xem file có đúng không
       - name: List files
