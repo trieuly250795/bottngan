@@ -1,4 +1,4 @@
-name: Run Bot
+name: Run Bot Workflow
 
 on:
   push:
@@ -6,22 +6,36 @@ on:
       - main
 
 jobs:
-  build:
+  run-bot:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      # Check out mã nguồn
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      # Cài đặt Python
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        pip install -r ngan/requirements.txt
+      # Cài đặt các thư viện từ requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r ngan/requirements.txt
 
-    - name: Run bot
-      run: |
-        python3 ngan/main.py
+      # Kiểm tra bot trên shell
+      - name: Test bot in shell
+        run: |
+          echo "Testing bot..."
+          python3 ngan/main.py
+
+      # Hoặc thêm các câu lệnh khác để kiểm tra môi trường
+      - name: Check python version
+        run: python3 --version
+
+      # In ra nội dung thư mục để kiểm tra xem file có đúng không
+      - name: List files
+        run: |
+          echo "Listing files..."
+          ls -l ngan
